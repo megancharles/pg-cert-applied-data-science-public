@@ -1,7 +1,7 @@
 # Predicting Food Eco-Grades from Ingredient Lists Using Machine Learning
 
 ## Description
-This repository contains code and resources for predicting food eco-grades from ingredient lists using machine learning. The main goal is to develop models that assess the environmental impact of food products based on their ingredients, leveraging data science techniques for preprocessing, feature extraction, and classification.
+This repository contains code and resources for predicting food eco-grades from ingredient lists using machine learning for my Postgraduate Certificate in Applied Data Science at the University of Birkbeck 2024/25. The main goal is to develop models that assess the environmental impact of food products based on their ingredients, leveraging data science techniques for preprocessing, feature extraction, and classification.
 
 ## Table of Contents
 - [Description](#description)
@@ -64,7 +64,6 @@ The data used in this project is sourced from [Open Food Facts](https://world.op
 │   ├── raw/                # Raw product data
 │   ├── processed/          # Processed and intermediate data
 │   └── final/              # Final cleaned datasets
-├── notebooks/              # Jupyter notebooks for data cleaning and translation
 ├── reports/
 │   └── figures/            # Generated plots and visualisations
 ├── src/
@@ -77,7 +76,7 @@ The data used in this project is sourced from [Open Food Facts](https://world.op
 ```
 
 ## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request. For major changes, open an issue first to discuss your proposed improvements.
+Please don't contribute to this project, it is for my PG Cert only.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
